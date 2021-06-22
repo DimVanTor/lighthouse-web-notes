@@ -1,4 +1,4 @@
 # [Your Name]'s Notes
 # [Dimitri]'s Notes
 ## Summary 
-This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Dimitri] (https://github.com/DimVanTor) for the Lighthouse Labs Web Development Bootcamp (https://www.lighthouselabs.ca/en).
